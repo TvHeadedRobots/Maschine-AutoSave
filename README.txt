@@ -23,19 +23,19 @@ Setup:
    B. open the Maschine AutoSave.scpt file in the AppleScript editor.
    C. Find the 5th line, you notice a comment above it that talks about changing the 
       line incase Maschine isn't installed in the default path. 
-   D. Change the "Macintosh HD:Applications:Native Instruments:Maschine:Maschine" part of 
-      the line to point to the location of your Maschine executable.
+   D. Change the "Macintosh HD:Applications:Native Instruments:Maschine:Maschine" 
+      part of the line to point to the location of your Maschine executable.
    E. Now click File->Save As
    F. In the save dialog select "Application" from the File Format: dorp down, then 
       pick a good place to save the file and click save.
    G. See step "1-C" above
 	
 NOTE: 
-	  A. Maschine AutoSave will automatically launch Maschine when it is run. If you
-         want the AutoSave functionality to work you must use the Maschine AutoSave
+	  A. Maschine AutoSave will automatically launch Maschine when it is run. If 
+	     you want the AutoSave functionality to work you must use the Maschine AutoSave
          application to launch Maschine.
       B. If you do not save your set before the first autosave interval you will be 
          prompted to name ans save you set. After doing this you will no longer be
-         prompted when autosave occurs. (I am planning to try to implement autosaveing
-         to a separate autosave file rather than the current file. This may be difficult
-         to do in AppleScript though.)
+         prompted when autosave occurs. (I am planning to try to implement 
+         autosaveing to a separate autosave file rather than the current file. This 
+         may be difficult to do in AppleScript though.)
