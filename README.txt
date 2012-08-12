@@ -1,5 +1,5 @@
 Maschine AutoSave
-By TvHeaded Robots
+By TvHeaded Robots, 2012
 http://blog.tvheadedrobots.com/
 
 Maschine AutoSave is an AppleScript that implements an autosave function
