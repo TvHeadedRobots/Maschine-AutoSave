@@ -31,9 +31,9 @@ Setup:
    G. See step "1-C" above
 	
 NOTE: 
-	  A. Maschine AutoSave will automatically launch Maschine when it is run. If 
-	     you want the AutoSave functionality to work you must use the Maschine 
-	     AutoSave application to launch Maschine.
+      A. Maschine AutoSave will automatically launch Maschine when it is run. If 
+         you want the AutoSave functionality to work you must use the Maschine 
+         AutoSave application to launch Maschine.
       B. If you do not save your set before the first autosave interval you will be 
          prompted to name ans save you set. After doing this you will no longer be
          prompted when autosave occurs. (I am planning to try to implement 
