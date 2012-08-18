@@ -3,7 +3,13 @@ By TvHeaded Robots, 2012
 http://blog.tvheadedrobots.com/
 
 Maschine AutoSave is an AppleScript that implements an autosave function
-in Native Instruments Maschine drum machine software.
+in Native Instruments Maschine drum machine software. The script will 
+detect if Maschine is running and if it is the application that has focus
+if it is it will perform a [Command]+S keystroke every 5 minutes (by default.)
+This is by no mess a perfect solution and is not a replacement for a properly 
+implemented autosave feature, but it will effectively save you from loosing
+hours of work because you forgot to save.
+
 
 How to use this script
 
